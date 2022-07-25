@@ -1,0 +1,3 @@
+[submodule "common/back-common"]
+	path = common/back-common
+	url = git@github.com:wangju68/common.git
